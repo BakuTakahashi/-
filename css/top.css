@@ -12,7 +12,7 @@ h1{
     padding: 1rem 2rem calc(1rem + 10px);
     background: #fff100;
     width: 450px;
-    margin-left: 28%;
+    margin-left: 30%;
     margin-top: 120px;
     font-size: 30px;
     font-weight: bold;
@@ -37,7 +37,7 @@ p {
 }
 
 .start {
-    margin-left: 540px;
+    margin-left: 544px;
     margin-top: 50px;
     font-size: 30px;
     font-weight: bold;
